@@ -1,0 +1,1 @@
+  This is a repo used to describe and explain the Liskov Substitution Principle. This example is taken from [here](https://www.tomdalling.com/blog/software-design/solid-class-design-the-liskov-substitution-principle/) and translated into Ruby. This was used as a supplemental resource to a presentation and may not be as comprehensive alone.
