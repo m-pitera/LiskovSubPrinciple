@@ -1,8 +1,9 @@
 class Bird
-  def fly(); end
-  def something_else(something); end
-  def something_complicated(complicated); end
-  def something_a_bird_would_do(); end
+  def fly(altitude, distance); end
+  def walk(distance); end
+  def eat(food); end
+
+  # other complicated bird stuff
 end
 
 class Toucan
